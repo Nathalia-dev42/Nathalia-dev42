@@ -34,7 +34,3 @@
 </div>
 
 ###
-
-<img src="https://raw.githubusercontent.com/Nathalia-dev42/Nathalia-dev42/output/snake.svg" alt="Snake animation" />
-
-###
