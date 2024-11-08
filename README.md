@@ -1,4 +1,5 @@
 <h2 align="left">Hello Word 👋</h2>
+<h5 align="left">Estudante de Análise e Desenvolvimento de Sistemas na faculdade Anhanguera de Arapongas/PR. Estou constantemente atualizando meus conhecimentos e buscando novos desafios na área de tecnologia. Tenho paixão por aprender e aplicar esses conhecimentos para criar soluções inovadoras.</h5>
 
 ###
 
