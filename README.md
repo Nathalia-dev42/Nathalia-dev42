@@ -1,5 +1,20 @@
-<h2 align="left">Hello Word 👋</h2>
-<h5 align="left">Estudante de Análise e Desenvolvimento de Sistemas na faculdade Anhanguera de Arapongas/PR. Estou constantemente atualizando meus conhecimentos e buscando novos desafios na área de tecnologia. Tenho paixão por aprender e aplicar esses conhecimentos para criar soluções inovadoras.</h5>
+<h2 align="center">Hello Word! Eu sou a Nathalia Santos</h2>
+
+###
+
+<p align="left">Sobre mim:</p>
+
+###
+
+<p align="left">Estudante de Análise e Desenvolvimento de Sistemas na Faculdade Anhanguera em Arapongas/PR. Estou constantemente atualizando meus conhecimentos e buscando novos desafios na área de tecnologia. Tenho paixão por aprender e aplicar esses conhecimentos para criar soluções inovadoras.</p>
+
+###
+
+<h3 align="left">Contatos:</h3>
+
+###
+
+<p align="left">Me encontre nestas redes sociais.</p>
 
 ###
 
@@ -11,10 +26,18 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Nathalia-dev42&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Nathalia-dev42&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="130" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Nathalia-dev42&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
+
+###
+
+<h3 align="left">Tecnologias</h3>
+
+###
+
+<p align="left">Estas são algumas das tecnologias e ferramentas que utilizo:</p>
 
 ###
 
@@ -28,8 +51,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="30" alt="vuejs logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
 </div>
