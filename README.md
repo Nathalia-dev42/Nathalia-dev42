@@ -1,86 +1,67 @@
-<h2 align="center">Hello Word! Eu sou a Nathalia Santos</h2>
+<h2 align="center">👋 Hello World! Eu sou a Nathalia Santos</h2>
 
-###
+---
 
-<p align="left">Sobre mim:</p>
+### 📌 Sobre mim
+Estudante de **Análise e Desenvolvimento de Sistemas** na Faculdade Anhanguera em Arapongas/PR.  
+Estou constantemente atualizando meus conhecimentos e buscando novos desafios na área de tecnologia.  
+Tenho paixão por aprender e aplicar esses conhecimentos para criar soluções inovadoras.
 
-###
+---
 
-<p align="left">Estudante de Análise e Desenvolvimento de Sistemas na Faculdade Anhanguera em Arapongas/PR. Estou constantemente atualizando meus conhecimentos e buscando novos desafios na área de tecnologia. Tenho paixão por aprender e aplicar esses conhecimentos para criar soluções inovadoras.</p>
-
-###
-
-<h3 align="left">Contatos:</h3>
-
-###
-
-<p align="left">Me encontre nestas redes sociais.</p>
-
-###
+### 📫 Contatos
+Me encontre nestas redes sociais:
 
 <div align="left">
   <a href="https://www.linkedin.com/in/nathaliasantosdev/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="35"/>
   </a>
-  <a href="https://www.instagram.com/nathalia.santos42/profilecard/?igsh=MXZndWJwbDg2OGxndg==" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  <a href="https://www.instagram.com/nathalia.santos42/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="35"/>
   </a>
   <a href="mailto:nathalia.s4245@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="35"/>
   </a>
 </div>
 
-###
+---
 
+### 📊 Estatísticas
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nathalia-dev42&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Nathalia-dev42&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Nathalia-dev42&show_icons=true&theme=dracula&count_private=true" height="150" alt="stats graph"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Nathalia-dev42&layout=compact&theme=dracula" height="150" alt="languages graph"/>
 </div>
 
-###
+---
 
-<h3 align="left">Tecnologias</h3>
-
-###
-
-<p align="left">Estas são algumas das tecnologias e ferramentas que utilizo:</p>
-
-###
+### 💻 Tecnologias
+Estas são algumas das tecnologias e ferramentas que utilizo:
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="30" alt="visualstudio logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/supabase/3ECF8E" height="30" alt="supabase logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="30" alt="visualstudio logo"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" height="30" alt="supabase logo"/>
 </div>
 
-###
+---
 
+### 🔢 Visitantes
 <div align="center">
-  <img src="https://profile-counter.glitch.me/Nathalia-dev42/count.svg?"  />
+  <img src="https://profile-counter.glitch.me/Nathalia-dev42/count.svg?" alt="contador de visitantes"/>
 </div>
 
-###
+---
 
-<picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nathalia-dev42/nathalia-dev42/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nathalia-dev42/nathalia-dev42/output/github-contribution-grid-snake-dark.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/nathalia-dev42/nathalia-dev42/output/github-contribution-grid-snake.svg">
+### 🐍 Contribuições
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Nathalia-dev42/Nathalia-dev42/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Nathalia-dev42/Nathalia-dev42/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Nathalia-dev42/Nathalia-dev42/output/github-contribution-grid-snake.svg">
 </picture>
-
-###
