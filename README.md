@@ -26,6 +26,8 @@ Sempre em busca de novos desafios e apaixonada por tecnologia, aplico meus conhe
 ### 📊 Estatísticas
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nathalia-dev42&theme=radical" height="150" alt="streak graph"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Nathalia-dev42&theme=radical" height="150" alt="repos per language"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Nathalia-dev42&theme=radical" height="150" alt="stats"/>
 </div>
 
 ---
