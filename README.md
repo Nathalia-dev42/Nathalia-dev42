@@ -48,11 +48,9 @@ Estas são algumas das tecnologias e ferramentas que utilizo:
 
 ---
 
+### 🕹️ Contribuições
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Nathalia-dev42/Nathalia-dev42/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Nathalia-dev42/Nathalia-dev42/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Nathalia-dev42/Nathalia-dev42/output/pacman-contribution-graph.svg">
 </picture>
-
-###
-
