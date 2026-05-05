@@ -22,10 +22,11 @@
 
 <img src="https://skillicons.dev/icons?i=python" height="55"/>
 <img src="https://skillicons.dev/icons?i=postgresql" height="55"/>
-<img src="https://www.uipath.com/hubfs/UiPath-Final-Logo.png" height="55"/>
-</div>
+<img src="https://skillicons.dev/icons?i=git" height="55"/>
 
----
+<img src="https://upload.wikimedia.org/wikipedia/commons/8/8a/UiPath_logo.svg" height="55"/>
+
+</div>
 
 ## 📊 Activity & Streak
 
