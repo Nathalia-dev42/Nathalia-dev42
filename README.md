@@ -50,5 +50,5 @@
 
 ### 🕹️ Contribuições
 <div align="center">
-  <img src="https://github.com/Nathalia-dev42/Nathalia-dev42/blob/output/github-contribution-grid-snake.svg" alt="snake animation"/>
+  <img src="https://github.com/Nathalia-dev42/Nathalia-dev42/blob/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
 </div>
