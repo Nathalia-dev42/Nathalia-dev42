@@ -16,15 +16,13 @@
 
 ---
 
-## ⚙️ Tech Stack
-
 <div align="center">
 
 <img src="https://skillicons.dev/icons?i=python" height="55"/>
 <img src="https://skillicons.dev/icons?i=postgresql" height="55"/>
 <img src="https://skillicons.dev/icons?i=git" height="55"/>
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/8/8a/UiPath_logo.svg" height="55"/>
+![UiPath](https://img.shields.io/badge/UiPath-RPA-orange?style=for-the-badge&logo=uipath&logoColor=white)
 
 </div>
 
