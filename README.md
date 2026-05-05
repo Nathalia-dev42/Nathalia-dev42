@@ -1,42 +1,43 @@
-<h1 align="center">👋 Olá, eu sou a Nathalia Santos</h1>
+<h1 align="center">Nathalia Santos</h1>
 
 <p align="center">
-💻 Desenvolvedora em formação <br>
-🚀 Focada em Python, Dados e Automação (RPA) <br>
+💻 Desenvolvedora em formação | Automação • Dados • Python
+</p>
+
+<p align="center">
 📍 Arapongas - PR
 </p>
 
+---
+
+## 🧭 Sobre mim
+
+Sou estudante de Análise e Desenvolvimento de Sistemas e estou focada em construir soluções com tecnologia, principalmente em **automação de processos (RPA)**, **Python** e **banco de dados**.
+
+Tenho interesse em transformar tarefas repetitivas em processos inteligentes e eficientes.
+
+---
+
+## ⚙️ Stack de estudos
+
 <p align="center">
-  <a href="https://www.linkedin.com/in/nathaliasantosdev/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:nathalia.s4245@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://www.instagram.com/nathalia.santos42/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="55"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="55"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="55"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/8a/UiPath_logo.svg" height="55"/>
 </p>
 
 ---
 
-## 🎯 Objetivo
-Buscando oportunidade de estágio na área de desenvolvimento ou automação, aplicando conhecimentos em Python, banco de dados e RPA.
-
----
-
-## 🧠 Tecnologias
+## 📊 GitHub em ação
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/8a/UiPath_logo.svg" height="50"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Nathalia-dev42&show_icons=true&theme=tokyonight&hide_border=true"/>
 </p>
 
----
-
-## 📈 Atividade no GitHub
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nathalia-dev42&theme=tokyonight&hide_border=true"/>
+</p>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nathalia-dev42&theme=tokyo-night&hide_border=true"/>
@@ -44,26 +45,23 @@ Buscando oportunidade de estágio na área de desenvolvimento ou automação, ap
 
 ---
 
-## 📊 Estatísticas
+## 🎯 Foco atual
 
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Nathalia-dev42&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=Nathalia-dev42&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-## 👀 Visitantes
-
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=Nathalia-dev42&icon=5&color=12"/>
-</p>
+- Python para automação e lógica  
+- Banco de dados (PostgreSQL)  
+- RPA com UiPath  
+- Desenvolvimento de projetos práticos  
 
 ---
 
-## 🚀 Sobre mim
+## 📫 Contato
 
-- 🎓 ADS em andamento  
-- 🤖 Interesse em automação com UiPath  
-- 🐍 Estudando Python e Banco de Dados  
-- 📚 Evoluindo constantemente na área tech  
+<p align="center">
+  <a href="mailto:nathalia.s4245@gmail.com">
+    📧 Email
+  </a>
+  &nbsp;&nbsp;|&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/nathaliasantosdev/">
+    💼 LinkedIn
+  </a>
+</p>
