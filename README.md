@@ -9,8 +9,6 @@ Sempre em busca de novos desafios e apaixonada por tecnologia, aplico meus conhe
 ---
 
 ### 📫 Contatos
-Me encontre nestas redes sociais:
-
 <div align="left">
   <a href="https://www.linkedin.com/in/nathaliasantosdev/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="35"/>
@@ -27,8 +25,6 @@ Me encontre nestas redes sociais:
 
 ### 📊 Estatísticas
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nathalia-dev42&show_icons=true&theme=radical" height="150" alt="stats graph"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nathalia-dev42&layout=compact&theme=radical" height="150" alt="languages graph"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nathalia-dev42&theme=radical" height="150" alt="streak graph"/>
 </div>
 
@@ -38,9 +34,9 @@ Me encontre nestas redes sociais:
 Estas são algumas das tecnologias e ferramentas que utilizo:
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/uipath/uipath-original.svg" height="30" alt="uipath logo"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/81/UiPath_Logo.svg" height="40" alt="uipath logo"/>
 </div>
 
 ---
@@ -54,5 +50,5 @@ Estas são algumas das tecnologias e ferramentas que utilizo:
 
 ### 🐍 Contribuições
 <div align="center">
-  <img src="https://github.com/Nathalia-dev42/Nathalia-dev42/blob/output/github-contribution-grid-snake.svg" alt="snake animation"/>
+  <img src="https://raw.githubusercontent.com/Nathalia-dev42/Nathalia-dev42/output/github-contribution-grid-snake.svg" alt="snake animation"/>
 </div>
