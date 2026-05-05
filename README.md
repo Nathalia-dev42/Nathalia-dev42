@@ -4,8 +4,7 @@
 
 ### 📌 Sobre mim
 Estudante de **Análise e Desenvolvimento de Sistemas** na Faculdade Anhanguera em Arapongas/PR.  
-Estou constantemente atualizando meus conhecimentos e buscando novos desafios na área de tecnologia.  
-Tenho paixão por aprender e aplicar esses conhecimentos para criar soluções inovadoras.
+Sempre em busca de novos desafios e apaixonada por tecnologia, aplico meus conhecimentos para criar soluções inovadoras.
 
 ---
 
@@ -28,8 +27,9 @@ Me encontre nestas redes sociais:
 
 ### 📊 Estatísticas
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nathalia-dev42&show_icons=true&theme=dracula&count_private=true" height="150" alt="stats graph"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Nathalia-dev42&layout=compact&theme=dracula" height="150" alt="languages graph"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Nathalia-dev42&show_icons=true&theme=radical" height="150" alt="stats graph"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nathalia-dev42&layout=compact&theme=radical" height="150" alt="languages graph"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nathalia-dev42&theme=radical" height="150" alt="streak graph"/>
 </div>
 
 ---
@@ -38,30 +38,21 @@ Me encontre nestas redes sociais:
 Estas são algumas das tecnologias e ferramentas que utilizo:
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="30" alt="visualstudio logo"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" height="30" alt="supabase logo"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/uipath/uipath-original.svg" height="30" alt="uipath logo"/>
 </div>
 
 ---
 
 ### 🔢 Visitantes
 <div align="center">
-  <img src="https://profile-counter.glitch.me/Nathalia-dev42/count.svg?" alt="contador de visitantes"/>
+  <img src="https://komarev.com/ghpvc/?username=Nathalia-dev42&color=blue&style=for-the-badge" alt="contador de visitantes"/>
 </div>
 
 ---
 
 ### 🐍 Contribuições
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Nathalia-dev42/Nathalia-dev42/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Nathalia-dev42/Nathalia-dev42/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Nathalia-dev42/Nathalia-dev42/output/github-contribution-grid-snake.svg">
-</picture>
+<div align="center">
+  <img src="https://github.com/Nathalia-dev42/Nathalia-dev42/blob/output/github-contribution-grid-snake.svg" alt="snake animation"/>
+</div>
