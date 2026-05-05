@@ -1,17 +1,14 @@
 <h1 align="center">👋 Olá, eu sou a Nathalia Santos</h1>
 
 <p align="center">
-💻 Estudante de Análise e Desenvolvimento de Sistemas <br>
-🚀 Apaixonada por tecnologia e automação <br>
+💻 Desenvolvedora em formação <br>
+🚀 Focada em Python, Dados e Automação <br>
 📍 Arapongas - PR
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/nathaliasantosdev/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://www.instagram.com/nathalia.santos42/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
   <a href="mailto:nathalia.s4245@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
@@ -20,34 +17,27 @@
 
 ---
 
-## ✨ Sobre mim
+## 🎯 Objetivo
 
-* 🎓 Cursando Análise e Desenvolvimento de Sistemas
-* 🤖 Interesse em automação com UiPath
-* 🐍 Estudando Python e Banco de Dados
-* 📚 Evoluindo constantemente na área de tecnologia
+Buscando oportunidade de estágio na área de desenvolvimento ou automação, aplicando conhecimentos em Python e banco de dados.
+
+---
+
+## 🧠 Tecnologias
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50"/>
+</p>
 
 ---
 
 ## 📊 Estatísticas
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Nathalia-dev42&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Nathalia-dev42&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nathalia-dev42&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-## 💻 Tecnologias
-
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50"/>
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Nathalia-dev42&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=Nathalia-dev42&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
@@ -65,3 +55,4 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/Nathalia-dev42/Nathalia-dev42/output/github-contribution-grid-snake-dark.svg"/>
 </p>
+
