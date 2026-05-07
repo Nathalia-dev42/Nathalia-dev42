@@ -1,7 +1,9 @@
 <h1 align="center">Hey 👋 I'm Nathalia Santos</h1>
 
 <p align="center">
-💻 Formada em Análise e Desenvolvimento de Sistemas • Automação • Dados • Python • RPA
+💻 Formada em Análise e Desenvolvimento de Sistemas • Automação • Python • RPA
+  <p align="center">
+<b>“Automação não é sobre código — é sobre liberdade de tempo.”</b>
 </p>
 
 ---
@@ -70,9 +72,3 @@
 </div>
 
 ---
-
-## 💡 Dev Quote
-
-<p align="center">
-<b>“Automação não é sobre código — é sobre liberdade de tempo.”</b>
-</p>
