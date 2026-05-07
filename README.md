@@ -1,7 +1,7 @@
 <h1 align="center">Hey 👋 I'm Nathalia Santos</h1>
 
 <p align="center">
-💻 Dev em formação • Automação • Dados • Python • RPA
+💻 Formada em Análise e Desenvolvimento de Sistemas • Automação • Dados • Python • RPA
 </p>
 
 ---
