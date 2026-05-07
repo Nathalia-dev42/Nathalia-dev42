@@ -53,30 +53,6 @@
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
 
 </div>
-
----
-
-## 🧠 Focus Areas
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/Automation-RPA-blueviolet?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Python-Data%20Processing-yellow?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/PostgreSQL-Database-blue?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Projects-Hands%20On-success?style=for-the-badge"/>
-
-</div>
-
----
-
-## 🔥 Tech Flow (visual stack)
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,postgresql,git" />
-
-</div>
-
 ---
 
 ## 📫 Connect
